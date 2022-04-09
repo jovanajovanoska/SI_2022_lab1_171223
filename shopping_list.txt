@@ -3,3 +3,4 @@ bread x4
 toilet paper x10
 chocolate x40
 meat x1
+water x6
