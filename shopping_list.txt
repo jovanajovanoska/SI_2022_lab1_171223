@@ -1,5 +1,5 @@
-eggs 
-bread 
-toilet paper 
-chocolate 
-meat 
+eggs x20
+bread x2
+toilet paper x10
+chocolate x20
+meat x1
