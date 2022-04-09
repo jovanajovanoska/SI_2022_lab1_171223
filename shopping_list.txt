@@ -1,6 +1,6 @@
 eggs x20
 bread x4
 toilet paper x10
-chocolate x40
+chocolatee x40
 meat x1
-water x6
+candy x6
